@@ -23,7 +23,7 @@
 | Data should be published and openly accessible as files or  through API end points | [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/) | &#9744; |
 |                                                              | [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) | &#9744; |
 | Section 4:                                                   | Accessibility &  Adaptability                                | &#9744; |
-| Open Access, Sustaibale Development, Legal and  Reuseable    | Open  Access for everyone to VIEW,DOWNLOAD, TEST, REUSE the Source code and  Contents | &#9744; |
+| Open Access, Sustainable Development, Legal and  Reuseable   | Open  Access for everyone to VIEW,DOWNLOAD, TEST, REUSE the Source code and  Contents | &#9744; |
 |                                                              | Provided in a reuseable, friendly formated file  or API      | &#9744; |
 |                                                              | Documentation and Use cases should be clear                  | &#9744; |
 |                                                              | Should be openly accessed through open-source  repositories, such as Github, Gitlab , and repository should be Public, not  Private or Partly Public. | &#9744; |
